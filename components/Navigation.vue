@@ -5,6 +5,11 @@
       class="text-white font-semibold ml-5 text-2xl hover:text-yellow-500 transition-all duration-500 ease-in-out"
       >LEE SIT WAI</nuxt-link
     >
+    <nuxt-link
+      to="/about"
+      class="text-white font-semibold ml-5 mr-10 text-xl hover:text-yellow-500 transition-all duration-500 ease-in-out"
+      >ABOUT</nuxt-link
+    >
   </div>
 </template>
 
